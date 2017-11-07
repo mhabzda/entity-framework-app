@@ -1,0 +1,46 @@
+c:\users\marcin\documents\visual studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\ConsoleApplicationDatabase.exe.config
+c:\users\marcin\documents\visual studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\ConsoleApplicationDatabase.exe
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\ConsoleApplicationDatabase.pdb
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.exe
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.pdb
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.Migrations.Initalize.resources
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.csproj.GenerateResource.Cache
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.Migrations.AddCustomer.resources
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.CategoryForm.resources
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.Migrations.AddOrder.resources
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.AddCategoryForm.resources
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.AddProductForm.resources
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.MakeOrderForm.resources
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.OrdersForm.resources
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.AddCustomerForm.resources
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\ConsoleApplicationDatabase.exe.config
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.exe
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.pdb
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\ConsoleApplicationDatabase.exe
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\ConsoleApplicationDatabase.pdb
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\EntityFramework.dll
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\mscorlib.dll
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\System.Net.Http.dll
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\EntityFramework.xml
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\System.Net.Http.xml
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\normidna.nlp
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\normnfc.nlp
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\normnfd.nlp
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\normnfkc.nlp
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\bin\Debug\normnfkd.nlp
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.AddCategoryForm.resources
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.AddCustomerForm.resources
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.AddProductForm.resources
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.CategoryForm.resources
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.MakeOrderForm.resources
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.OrdersForm.resources
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\ConsoleApplicationDatabase\ConsoleApplicationDatabase\obj\Debug\ConsoleApplicationDatabase.Migrations.Initialize.resources
